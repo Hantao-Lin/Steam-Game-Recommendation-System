@@ -13,4 +13,6 @@ The purpose of this project is to use steam game data to build recommendation sy
 This project contains steps to tackle a real life problem using data. It also contains codes and reports of all the findings.
 1. [Project Proposal](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Capstone%20Project%202%20Proposal.pdf)
 2. [Data Wrangling Code](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Wrangling.ipynb)
-   * 2.1 [Data Wrangling Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Wrangling%20Report.pdf)
+    * 2.1 [Data Wrangling Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Wrangling%20Report.pdf)
+3. [Data Storytelling Code](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Storytelling%20.ipynb)
+    * 3.1 [Data Storytelling Presentation](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Storytelling.pdf)
