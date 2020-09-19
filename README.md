@@ -18,3 +18,4 @@ This project contains steps to tackle a real life problem using data. It also co
     * 3.1 [Data Storytelling Presentation](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Storytelling.pdf)
 4. [Statistical Analysis Code](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Statistically%20Analysis%20.ipynb)
       * 4.1 [Statisical Analysis Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Statistical%20Analysis.pdf)
+5. [Milestone Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Capstone%20Project%202%20Milestone%20Report.pdf)
