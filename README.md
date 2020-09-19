@@ -16,3 +16,5 @@ This project contains steps to tackle a real life problem using data. It also co
     * 2.1 [Data Wrangling Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Wrangling%20Report.pdf)
 3. [Data Storytelling Code](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Data%20Storytelling%20.ipynb)
     * 3.1 [Data Storytelling Presentation](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Storytelling.pdf)
+4. [Statistical Analysis Code](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Statistically%20Analysis%20.ipynb)
+      * 4.1 [Statisical Analysis Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Statistical%20Analysis.pdf)
