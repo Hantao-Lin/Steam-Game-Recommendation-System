@@ -22,3 +22,5 @@ This project contains steps to tackle a real life problem using data. It also co
       * 5.1 [Milestone Report Presentation](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Milestone%20Report%20Presentation.pdf)
 6. [Recommend System](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Recommend%20System%20.ipynb)
       * 6.1 [Recommend System Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Recommend%20System%20Report.docx)
+7. [Final Report Presentation](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Final%20Milestone%20Report%20Presentation.pdf)
+      * 7.1 [Final Report](https://github.com/Hantao-Lin/Steam-Game-Recommendation-System/blob/master/Final%20Capstone%20Project%202%20Final%20Report.pdf)
